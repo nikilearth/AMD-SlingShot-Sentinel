@@ -1,0 +1,3 @@
+Item: Blue Navy Suit, Occasion: Formal, Color: Navy
+Item: White Linen Shirt, Occasion: Casual/Formal, Color: White
+Item: Brown Leather Loafers, Occasion: Formal, Color: Brown
