@@ -2,7 +2,6 @@
 
 **Submission for AMD Slingshot Contest** **Category:** AI in Consumer Experiences  
 **Team Name:** LONE CODER  
-**Team Leader:** P HARI RAM NIKIL
 
 ## The Vision
 Current consumer AI assistants sacrifice user privacy by sending data to the cloud. **AMD Sentinel** flips the script. It is an on-device personal curator that runs 100% locally on **AMD Ryzen™ AI** hardware. It understands your wardrobe, your budget, and your calendar to provide hyper-personalized shopping advice without your data ever leaving your PC.
